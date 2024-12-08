@@ -29,9 +29,8 @@ A full-stack **User Management System** built with **Spring Boot** and **React.j
 ### Profile Page (User)
 ![Screenshot 2024-12-08 101453](https://github.com/user-attachments/assets/1e48cde8-7399-4725-80d1-8285f67361c5)
 
-
 ### User Management Page
-![Screenshot 2024-12-08 101352](https://github.com/user-attachments/assets/75e81111-65a0-42af-a350-851f53637479)
+![image](https://github.com/user-attachments/assets/9d10de24-aedb-49e6-bec3-babdcf0f47da)
 
 ### Update User Page
 ![Screenshot 2024-12-08 101343](https://github.com/user-attachments/assets/946d4e05-1bcf-4af2-bec6-c717f70fb981)
