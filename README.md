@@ -39,12 +39,14 @@ A full-stack **User Management System** built with **Spring Boot** and **React.j
 
 ## Prerequisites
 
-- **Java 17+**
-- **Node.js 16+**
-- **MySQL**
-- **npm or yarn**
+- **Java 17+**: Required to run the Spring Boot backend.
+- **React.js**: Used to build the frontend interface.
+- **MySQL**: Database to store user data securely.
+- **Node.js 16+**: Required for managing the React.js frontend development.
+- **npm or yarn**: Package managers to install and manage frontend dependencies (e.g., Axios, React Router).
 
 ---
+
 
 ## Getting Started
 
@@ -163,9 +165,7 @@ Contributions are welcome! To contribute:
 
 ## Author
 Developed by Kalana De Silva. Feel free to reach out for feedback and improvements!
-```vbnet
-This README file covers the API endpoints, file structure, architecture, and key features of the project in markdown language. Let me know if you need further customization!
-```
+
 
 
 
