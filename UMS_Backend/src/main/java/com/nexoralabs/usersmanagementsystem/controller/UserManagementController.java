@@ -34,6 +34,10 @@ public class UserManagementController {
         return ResponseEntity.ok(usersManagementService.refreshToken(req));
     }
 
+   @GetMapping("/user/hello")
+   public String hello(){
+        return "hello";
+   }
     // Get all users - permit only to admin
     @GetMapping("/admin/get-all-users")
     public ResponseEntity<ReqRes> getAllUsers(){
